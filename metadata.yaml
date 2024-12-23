@@ -8,7 +8,12 @@ contributor:
     deathdate: 1982
     gutenberg_agent_id: '8875'
     url: http://www.gutenberg.org/2009/agents/8875
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74833#Historiallisia-kaskuja
 gutenberg_issued: '2024-12-03'
 gutenberg_type: Text
 identifiers:
